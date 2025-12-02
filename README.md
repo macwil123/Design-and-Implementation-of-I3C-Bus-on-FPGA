@@ -42,28 +42,7 @@ This project focuses on implementing the MIPI-I3C serial communication protocol 
 * Executed private read/write operations after successful DAA
 * Analysed hardware results via ILA to identify functional issues
 
-## Project Structure
 
-```
-/src
-    i2c_controller.v
-    i2c_slave_controller.v
-    i2c_fpga.v //top level module
-
-
-    i3c_controller.v
-    i3c_slave_controller.v
-    i3c_fpga.v
-
-/simulation
-    i2c_read_write_waveforms
-    i3c_daa_private_rw_waveforms
-
-/hardware
-   i2c_fpga.xdc 
-   i3c_fpga.xdc
-    ILA_captures
-```
 
 ## Tools and Platform
 
