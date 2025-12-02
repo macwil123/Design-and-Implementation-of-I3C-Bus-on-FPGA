@@ -81,6 +81,3 @@ This project focuses on implementing the MIPI-I3C serial communication protocol 
 * Robust error-handling and timing optimization
 * UVM-based verification environment
 
-
-
-(Add papers, standards, and URLs here when publishing)
