@@ -1,4 +1,4 @@
-# Design and Implementation of the I3C Protocol on FPGA
+# Design and Implementation of I3C Protocol on FPGA
 
 ## Overview
 
